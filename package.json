@@ -1,0 +1,16 @@
+{
+  "name": "telg-bot",
+  "version": "1.0.0",
+  "description": " telegrambot ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "Obid",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "nodemon": "^2.0.6",
+    "telebot": "^1.4.1"
+  }
+}
